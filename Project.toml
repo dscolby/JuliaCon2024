@@ -1,0 +1,6 @@
+[deps]
+CausalELM = "26abab4e-b12e-45db-9809-c199ca6ddca8"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+
+[compat]
+CausalELM = "0.6"
